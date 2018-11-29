@@ -79,6 +79,15 @@ void KalmanFilter::UpdateEKF(const VectorXd &z) {
   h << rho, theta, rhodot;
   VectorXd y = z - h;
 
+  // Normalizing Angles (to be within the range -pi and pi)
+  while (y(1) > M_PI) {
+    y(1) -= 2*M_PI;
+  } 
+
+  while (y(1) < -M_PI) {
+    y(1) += 2*M_PI;
+  }
+
   // Update the state by using Kalman Filter equations
   MatrixXd Ht = H_.transpose();
   MatrixXd S = H_ * P_ * Ht + R_;
