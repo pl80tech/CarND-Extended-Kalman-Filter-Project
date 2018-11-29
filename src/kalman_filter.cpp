@@ -65,7 +65,14 @@ void KalmanFilter::UpdateEKF(const VectorXd &z) {
   // Calculate the cartesia coordinates
   float rho = sqrt(px*px + py*py);
   float theta = atan2(py,px);
-  float rhodot = (px*vx + py*vy)/rho;
+  float rhodot;
+
+  if (fabs(rho) < 0.00001) {
+    rhodot = 0;
+  } else {
+    // Avoid zero division
+    rhodot = (px*vx + py*vy)/rho;
+  }
 
   // Calculate the delta
   VectorXd h = VectorXd(3);
