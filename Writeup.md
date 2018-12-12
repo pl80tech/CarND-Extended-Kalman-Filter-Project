@@ -20,7 +20,7 @@ https://github.com/udacity/CarND-Extended-Kalman-Filter-Project
 
 Here are the output videos uploaded on Youtube.
 
-| EKF with dataset1 ([link on Github](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/output/EKF_with_dataset1.mp4)) | EKF with dataset2 [link on Github](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/output/EKF_with_dataset2.mp4) |
+| EKF with dataset1 ([link on Github](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/output/EKF_with_dataset1.mp4)) | EKF with dataset2 ([link on Github](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/output/EKF_with_dataset2.mp4)) |
 |:-------------------------------:|:---------------------------------:|
 | [![dataset1](https://i.ytimg.com/vi/K-3rZD_VK8A/hqdefault.jpg)](https://www.youtube.com/watch?v=K-3rZD_VK8A) | [![dataset2](https://i.ytimg.com/vi/ZAF9MD6ONr0/hqdefault.jpg)](https://www.youtube.com/watch?v=ZAF9MD6ONr0) |
 
