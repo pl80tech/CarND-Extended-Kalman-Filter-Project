@@ -5,6 +5,21 @@
 This is my writeup for the project "Extended Kalman Filter" of Self Driving Car Nanadegree on Udacity.
 
 ---
+
+### Contents
+
+* [About Extended Kalman Filter Project](#About-Extended-Kalman-Filter-Project)
+* [Project code](#Project-code)
+* [Output videos](#Output-videos)
+
+---
+## About Extended Kalman Filter Project
+
+The goals / steps of this project are the following:
+
+* To be added
+
+---
 ## Project code
 
 Here is my working repository for this project:
