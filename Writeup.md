@@ -17,7 +17,8 @@ This is my writeup for the project "Extended Kalman Filter" of Self Driving Car 
 
 The goals / steps of this project are the following:
 
-* To be added
+* Utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements
+* Obtain RMSE values that are lower than the tolerance outlined in the project rubric
 
 ---
 ## Project code
