@@ -45,6 +45,6 @@ Here are the output videos uploaded on Youtube.
 
 | EKF with dataset1 ([link on Github](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/output/EKF_with_dataset1.mp4)) | EKF with dataset2 ([link on Github](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/output/EKF_with_dataset2.mp4)) |
 |:-------------------------------:|:---------------------------------:|
-|[![alt text][image1]](https://www.youtube.com/watch?v=K-3rZD_VK8A) | [![dataset2](https://i.ytimg.com/vi/ZAF9MD6ONr0/hqdefault.jpg)](https://www.youtube.com/watch?v=ZAF9MD6ONr0) |
+|[![alt text][image1]](https://www.youtube.com/watch?v=K-3rZD_VK8A) |[![alt text][image2]](https://www.youtube.com/watch?v=ZAF9MD6ONr0) |
 
 *Click on thumbnail image to view the video on Youtube.*
