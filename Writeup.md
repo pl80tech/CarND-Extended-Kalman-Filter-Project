@@ -8,6 +8,8 @@ This is my writeup for the project "Extended Kalman Filter" of Self Driving Car 
 
 [image1]: ./output/EKF_with_dataset1.gif "Animated gif - dataset 1"
 [image1y]: https://i.ytimg.com/vi/K-3rZD_VK8A/hqdefault.jpg "Thumbnail on Youtube - dataset 1"
+[image2]: ./output/EKF_with_dataset2.gif "Animated gif - dataset 2"
+[image2y]: https://i.ytimg.com/vi/ZAF9MD6ONr0/hqdefault.jpg "Thumbnail on Youtube - dataset 2"
 
 ---
 
