@@ -27,6 +27,8 @@ The goals / steps of this project are the following:
 * Utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements
 * Obtain RMSE values that are lower than the tolerance outlined in the project rubric
 
+More detail explanation can be found in [README](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/README.md)
+
 ---
 ## Project code
 
