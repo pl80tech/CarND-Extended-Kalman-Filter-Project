@@ -1,5 +1,7 @@
 # **Extended Kalman Filter Project** 
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+---
 ## Writeup
 
 This is my writeup for the project "Extended Kalman Filter" of Self Driving Car Nanadegree on Udacity.
